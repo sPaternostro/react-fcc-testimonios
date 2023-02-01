@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-fcc-testimonios/static/css/main.03cb41af.css",
+    "main.js": "/react-fcc-testimonios/static/js/main.52b65ef1.js",
+    "static/media/testimonio-emma.png": "/react-fcc-testimonios/static/media/testimonio-emma.add10415a5668325d2f2.png",
+    "static/media/testimonio-sarah.png": "/react-fcc-testimonios/static/media/testimonio-sarah.2c504d1ebaf1961e4a40.png",
+    "static/media/testimonio-shawn.png": "/react-fcc-testimonios/static/media/testimonio-shawn.0d373888087fb18fc145.png",
+    "index.html": "/react-fcc-testimonios/index.html",
+    "main.03cb41af.css.map": "/react-fcc-testimonios/static/css/main.03cb41af.css.map",
+    "main.52b65ef1.js.map": "/react-fcc-testimonios/static/js/main.52b65ef1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03cb41af.css",
+    "static/js/main.52b65ef1.js"
+  ]
+}
